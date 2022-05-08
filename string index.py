@@ -1,3 +1,4 @@
+#Tpye 5 unique number
 list_1 = []
 while len(list_1) < 5:
     string = input('Enter str :')
