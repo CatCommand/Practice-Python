@@ -1,3 +1,4 @@
+#prime check 
 count = 0
 number = int(input('Enter number:'))
 
