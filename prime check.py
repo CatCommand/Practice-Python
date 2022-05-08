@@ -1,3 +1,4 @@
+# Prime Cheack
 count = 0
 number = int(input('Enter number:'))
 
@@ -8,3 +9,4 @@ if count == 2 :
     print('Is prime')
 else:
     print('Is not prime')
+
